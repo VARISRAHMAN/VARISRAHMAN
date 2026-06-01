@@ -17,22 +17,33 @@
 
 ## 👾 About Me
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  varis@kali:~$ whoami                                               │
-│                                                                     │
-│  Cybersecurity Professional passionate about offensive and          │
-│  defensive security practices. Focused on SOC Operations,           │
-│  Threat Hunting, Vulnerability Assessment, SIEM Engineering,        │
-│  Active Directory Security, Web Application Security, and           │
-│  AI Security Testing.                                               │
-│                                                                     │
-│  Location  : Kottakkal, Kerala, India                               │
-│  Education : Advanced Diploma in Cyber Security (Offenso)           │
-│            : BBA — Calicut University                               │
-│  Certs     : CompTIA Security+ (Pursuing)                           │
-│  Goal      : Detection Engineering · Cloud Security · CISSP · CCSP │
-└─────────────────────────────────────────────────────────────────────┘
+```yaml
+# ─────────────────────────────────────────────────────────
+#  PROFILE     Varis Rahman
+#  DOCUMENT    Cybersecurity Professional — Bio
+# ─────────────────────────────────────────────────────────
+
+name         : Varis Rahman
+role         : Cybersecurity Professional
+location     : Kottakkal, Kerala, India
+
+summary      : >
+  Passionate about offensive and defensive security practices.
+  Focused on SOC Operations, Threat Hunting, Vulnerability
+  Assessment, SIEM Engineering, Active Directory Security,
+  Web Application Security, and AI Security Testing.
+
+education    :
+  - Advanced Diploma in Cyber Security — Offenso Hackers Academy
+  - BBA — Calicut University (Distance Education)
+
+certifications:
+  - CompTIA Security+   [ Pursuing ]
+  - Advanced Diploma    [ In Progress ]
+
+goal         : >
+  Detection Engineering · Cloud Security · CISSP · CCSP
+# ─────────────────────────────────────────────────────────
 ```
 
 ---
@@ -150,7 +161,7 @@ Cowrie SSH honeypot + fake banking web honeypot integrated with ELK Stack for re
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VARISRAHMAN&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00d4ff&text_color=8ba8b8&icon_color=00ff88&border_color=21262d&count_private=true&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VARISRAHMAN&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00d4ff&text_color=8ba8b8&icon_color=00ff88&border_color=21262d&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARISRAHMAN&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00d4ff&text_color=8ba8b8&border_color=21262d"/>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=VARISRAHMAN&theme=dark&background=0d1117&border=21262d&stroke=00d4ff&ring=00ff88&fire=00ff88&currStreakNum=00d4ff&sideNums=8ba8b8&currStreakLabel=00d4ff&sideLabels=8ba8b8&dates=8ba8b8"/>
